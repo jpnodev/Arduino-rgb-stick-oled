@@ -5,19 +5,6 @@ The screen displays the RGB components.
 They can be changed with the three sliders.
 Each color is stored in an 8bit integer and is then mapped to a tension with an 'analogWrite();'.
 
-DISPLAY
---------------------------------------------
-|                                          |
-| ------|                    <R>           |
-|                                          |
-| ---------------------|     <G>           |
-|                                          |
-| ----------|                <B>           |
-|                                          |
-|                                          |
---------------------------------------------
-
-
 # Components
 - 1x Arduino Nano 33 BLE Rev2
 - 1x Analog Joystick
